@@ -45,3 +45,6 @@ jobs:
           personal_token: ${{secrets.GH_PAT}} # github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
           keep_files: true # keeps existing files in gh-pages branch
+          
+      - name: "Debug: List build folder contents"
+        run: ls -l build
