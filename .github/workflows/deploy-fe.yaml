@@ -47,4 +47,4 @@ jobs:
           keep_files: true # keeps existing files in gh-pages branch
           
       - name: "Debug: List build folder contents"
-        run: ls -l build
+        run: ls -a 
