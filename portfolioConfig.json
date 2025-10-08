@@ -12,8 +12,24 @@
   "experiences": [
     {
       "position": "Software Development Engineer - 2",
+      "company": "imagekit.io",
+      "period": "Aug 2025 – Present",
+      "description": [
+        "Started working on the Digital asset managment (DAM) dashboard",
+        "Improved the asset search on the DAM dashboard, Add collection thumbnails"
+      ],
+      "technologies": [
+        "React",
+        "React Context APIs",
+        "TypeScript",
+        "Express.js",
+        "REST APIs"
+      ]
+    },
+    {
+      "position": "Software Development Engineer - 2",
       "company": "smallcase Technologies Pvt Ltd",
-      "period": "Oct 2024 – Present",
+      "period": "Oct 2024 – Aug 2025",
       "description": [
         "Owner of multiple frontend repositories in the Gateway team, supporting Securities and smallcase distribution for partners.",
         "Led US Equity transaction onboarding, including digilocker KYC integration and on-the-go bank account opening.",
@@ -83,8 +99,7 @@
         "Gin Gonic",
         "MongoDB",
         "SQL",
-        "REST APIs",
-        "GraphQL"
+        "REST APIs"
       ]
     },
     {
