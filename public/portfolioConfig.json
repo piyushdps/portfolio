@@ -3,8 +3,8 @@
     "name": "Piyush Aryan",
     "title": "Full Stack Developer",
     "location": "Bengaluru, India",
-    "intro": "Full stack developer with a strong foundation in MERN stack and fintech product development. Currently expanding skills in Go. Experienced in building scalable systems and integrating services in high-impact, compliant environments.",
-    "jobStatus": "Currently working as an SDE-2 at smallcase Technologies. Open to exciting roles that allow me to architect robust systems while collaborating across stacks.",
+    "intro": "Full-Stack Developer who supercharges workflows with AI from rapid research and debugging to architecting smarter, scalable solutions.",
+    "jobStatus": "Currently working as an SDE-2 at imagekit.io. Open to exciting roles that allow me to architect robust systems while collaborating across stacks.",
     "resumeUrl": "https://drive.google.com/drive/folders/1zHUABAbXZbpB-o92F3KmVzBIgI-qzaZq?usp=sharing",
     "calendarUrl": "https://cal.com/piyusharyan/",
     "pronouns": "he/him"
@@ -15,19 +15,22 @@
       "company": "imagekit.io",
       "period": "Aug 2025 – Present",
       "description": [
-        "Started working on the Digital asset managment (DAM) dashboard",
-        "Improved the asset search on the DAM dashboard, Add collection thumbnails"
+        "Engineered a color transformation pipeline that detects dominant image colors and performs replacement while preserving perceptual properties (lightness, alpha, gamma, shadows, and hues), ensuring output quality across diverse image inputs.  Feature being used by e-com companies to maintain consistency with the product images while being able to show color variations on demand in real time.",
+        "Built Rust-native processing modules with Node.js bindings to accelerate image-processing workloads, reducing latency by ~60% and improving throughput by 2x.",
+        "Architected an event driven webhook infrastructure leveraging MongoDB source connectors, Kafka Streams, and Temporal workflows to provide fault-tolerant, compacted, asynchronous event delivery at scale."
       ],
       "technologies": [
         "React",
         "React Context APIs",
         "TypeScript",
         "Express.js",
-        "REST APIs"
+        "Image Processing",
+        "Rust - NodeJs Binding",
+        "Sharp Js"
       ]
     },
     {
-      "position": "Software Development Engineer - 2",
+      "position": "Software Development Engineer",
       "company": "smallcase Technologies Pvt Ltd",
       "period": "Oct 2024 – Aug 2025",
       "description": [
@@ -176,6 +179,11 @@
       "icon": "github"
     },
     {
+      "name": "GitHub 2",
+      "url": "https://github.com/piyushryn",
+      "icon": "github"
+    },
+    {
       "name": "LinkedIn",
       "url": "https://linkedin.com/in/aryanpiyush",
       "icon": "linkedin"
@@ -189,11 +197,6 @@
       "name": "Schedule a meeting",
       "url": "https://cal.com/piyusharyan/",
       "icon": "calendar"
-    },
-    {
-      "name": "GitHub 2",
-      "url": "https://github.com/piyushryn",
-      "icon": "github"
     }
   ],
   "seo": {
